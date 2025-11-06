@@ -58,7 +58,7 @@ I am also expanding into **Data Analysis**, attending seminars and working towar
 
 ### 🌱 Currently Learning
 - Data Cleaning & Processing  
-- Data Visualization & Interpretation  
+- Data Visualization & Interpretation 
 - Dashboard Creation  
 - Continuing workshops & certification track  
 
