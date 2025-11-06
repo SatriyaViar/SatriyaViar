@@ -1,62 +1,83 @@
-<h1 align="center">Hi, I'm Satriya Viar Citta Purnama 👋</h1>
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm <strong>Satriya Viar Citta Purnama</strong></h1>
 <h3 align="center">Web Application Developer | Business Information Systems Student | Data Analyst (Learning Track)</h3>
 
 <p align="center">
-  🌍 Malang, Indonesia • 🎓 Politeknik Negeri Malang • 💻 Open to Collaboration
+  📍 Malang, Indonesia • 🎓 Politeknik Negeri Malang • 🌐 Open to Collaboration
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I am an international student currently studying Business Information Systems (D4) at State Polytechnic of Malang.  
-I specialize in **Web Application Development**, particularly using **PHP Native** and **Laravel**, gained through hands on project based learning.
-
-I am also actively developing skills in **Data Analysis**, attending workshops and certification programs to strengthen analytical thinking and data interpretation.
+<!-- BADGES -->
+<p align="center">
+  <a href="https://github.com/SatriyaViar">
+    <img src="https://img.shields.io/github/followers/SatriyaViar?label=Follow&style=social" alt="Followers">
+  </a>
+  <a href="mailto:satriaviar24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue" alt="Email">
+  </a>
+</p>
 
 ---
 
-### 🧩 Tech Stack
+### 🔥 About Me
+I am an international student currently studying **Business Information Systems (D4)** at **State Polytechnic of Malang**.  
+My main focus is **Web Application Development**, especially using **PHP Native** and **Laravel** through real project-based learning.
 
-| Category | Tools |
-|---------|-------|
+I am also expanding into **Data Analysis**, attending seminars and working toward certification in data interpretation and visualization.
+
+💡 I enjoy building systems that are **clean, structured, and impactful**.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+| Category | Technologies |
+|---------|--------------|
 | **Frontend** | HTML · CSS · JavaScript |
 | **Backend / Framework** | PHP (Native) · Laravel |
 | **Database** | MySQL |
 | **Version Control** | Git · GitHub |
-| **Learning** | Data Analysis · Dashboarding · Data Visualization |
+| **Learning** | Data Analysis · Visualization · Dashboarding |
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-#### 1) **Web Application (PHP Native & MySQL)**
-- Created CRUD-based web system with authentication & database management features.
-- Implemented structured backend logic and optimized queries.
+#### 1) **Web Application — PHP Native & MySQL**
+- CRUD-based application with authentication and data management.
+- Implemented structured backend logic and efficient database queries.
 
-#### 2) **Laravel Web Application (Semester PBL Project)**
-- Developed MVC-based web platform using Laravel & Blade templating.
-- Implemented middleware routing, validation, and secure login system.
+#### 2) **Laravel Web Application — PBL (Semester 5)**
+- Built a full web system using MVC architecture and Blade templates.
+- Added form validation, protected routes, and login system.
 
-> *More repositories and showcased projects coming soon...*
+> Repositories will be continuously improved and documented for public showcasing.
 
 ---
 
 ### 🌱 Currently Learning
 - Data Cleaning & Processing  
 - Data Visualization & Interpretation  
-- Dashboard Tools (to be added as learned)  
-- Continuing workshop & certification progression
+- Dashboard Creation  
+- Continuing workshops & certification track  
 
 ---
 
 ### 🏛️ Organizational Experience
-| Role | Organization | Description |
-|------|-------------|-------------|
-| Member | Information Technology Student Association | Built collaboration & communication skills through academic & professional activities.
+| Position | Organization | Description |
+|---------|--------------|-------------|
+| Member | Information Technology Student Association | Improved teamwork, coordination, and leadership involvement |
 
 ---
 
-### 🤝 Let’s Connect!
+### 🤝 Connect With Me
 
-Feel free to reach out for collaboration, projects, internship, or networking opportunities.
+| Platform | Link |
+|---------|------|
+| 📧 Email | **satriaviar24@gmail.com** |
+| 🐙 GitHub | **github.com/SatriyaViar** |
 
+---
+
+<p align="center"><strong>✨ Thank you for visiting — Let's build something impactful together! ✨</strong></p>
