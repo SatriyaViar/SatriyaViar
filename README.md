@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 I am an international student currently studying Business Information Systems (D4) at State Polytechnic of Malang.  
-I specialize in **Web Application Development**, particularly using **PHP Native** and **Laravel**, gained through hands-on project-based learning.
+I specialize in **Web Application Development**, particularly using **PHP Native** and **Laravel**, gained through hands on project based learning.
 
 I am also actively developing skills in **Data Analysis**, attending workshops and certification programs to strengthen analytical thinking and data interpretation.
 
